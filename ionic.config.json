@@ -1,5 +1,7 @@
 {
   "name": "newsFeed",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
